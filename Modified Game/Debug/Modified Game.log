@@ -1,0 +1,3 @@
+﻿  Modified Game.cpp
+C:\Users\user\source\repos\Modified Game\Modified Game\Modified Game.cpp(103,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Modified Game.vcxproj -> C:\Users\user\source\repos\Modified Game\Debug\Modified Game.exe
